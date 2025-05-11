@@ -1,4 +1,4 @@
-# Show E-commerce Website
+# Shoe E-commerce Website
 
 This is a siple website made by using HTML ,CSS and JS .
 I made it just to practise my skill in HTML , CSS and JS.
